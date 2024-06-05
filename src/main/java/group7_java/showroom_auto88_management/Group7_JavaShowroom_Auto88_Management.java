@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  */
 
-package com.mycompany.group7_java.showroom_auto88_management;
+package group7_java.showroom_auto88_management;
 
 /**
  *
