@@ -11,4 +11,12 @@
         <maven.compiler.target>20</maven.compiler.target>
         <exec.mainClass>com.mycompany.group7_java.showroom_auto88_management.Group7_JavaShowroom_Auto88_Management</exec.mainClass>
     </properties>
+    <!-- https://mvnrepository.com/artifact/com.google.code.gson/gson -->
+    <dependencies>
+    <dependency>
+        <groupId>com.fasterxml.jackson.core</groupId>
+        <artifactId>jackson-databind</artifactId>
+        <version>2.13.4</version>
+    </dependency>
+</dependencies>
 </project>
